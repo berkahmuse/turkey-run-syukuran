@@ -1,8 +1,8 @@
 # Dinner Table Dash — @syukuran entry
 
 [![make.fun](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/c/turkey-run-game-01)
-[![rank](https://make.fun/badge/turkey-run-game-01/syukuran/turkey-run-syukuran/rank.svg)](https://make.fun/c/turkey-run-game-01)
-[![reward](https://make.fun/badge/turkey-run-game-01/syukuran/turkey-run-syukuran/reward.svg)](https://make.fun/c/turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/berkahmuse/turkey-run-syukuran/rank.svg)](https://make.fun/c/turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/berkahmuse/turkey-run-syukuran/reward.svg)](https://make.fun/c/turkey-run-game-01)
 
 Entry for the [make.fun competition "Make the best turkey escape game"](https://make.fun/c/turkey-run-game-01)
 (`turkey-run-game-01`): the turkey is already ON the Thanksgiving dinner
